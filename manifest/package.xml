@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>JP_VoucherController</members>
+        <members>JP_VoucherControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>JP_Voucher</members>
+        <members>JP_ClickBox</members>
+        <members>JP_Excel</members>
+        <members>JP_MP3</members>
+        <members>JP_PPT</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <version>45.0</version>
+</Package>
